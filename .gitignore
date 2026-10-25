@@ -1,0 +1,6 @@
+﻿# Java build output
+**/bin/
+*.class
+
+# VS Code local settings
+.vscode/
